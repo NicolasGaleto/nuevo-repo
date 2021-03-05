@@ -65,3 +65,13 @@ p {
 
     text-decoration: none;
 }
+
+.div1 {
+
+    position: relative;
+}
+
+.parrafo1 {
+    position: absolute;
+    
+}
